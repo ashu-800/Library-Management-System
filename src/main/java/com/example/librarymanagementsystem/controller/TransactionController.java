@@ -1,7 +1,7 @@
 package com.example.librarymanagementsystem.controller;
 
-import com.example.librarymanagementsystem.dto.responsetDTO.IssueBookResponse;
-import com.example.librarymanagementsystem.service.impl.TransactionService;
+import com.example.librarymanagementsystem.dto.responseDTO.IssueBookResponse;
+import com.example.librarymanagementsystem.service.TransactionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

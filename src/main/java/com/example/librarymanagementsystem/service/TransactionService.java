@@ -1,4 +1,4 @@
-package com.example.librarymanagementsystem.service.Impl;
+package com.example.librarymanagementsystem.service;
 
 import com.example.librarymanagementsystem.Enum.TransactionStatus;
 import com.example.librarymanagementsystem.dto.responseDTO.IssueBookResponse;
